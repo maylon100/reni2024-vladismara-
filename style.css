@@ -35,10 +35,14 @@ ul {
     
 }
 
-.container img {
+/* .container img {
     max-width: 100%; /* Garante que a imagem não ultrapasse a largura do contêiner */
     height: auto;
     border: 2px solid #ccc; /* Adiciona uma borda sutil ao redor da imagem */
     border-radius: 8px; /* Arredonda os cantos da borda da imagem */
-    float: inline-end;
-}
+} */
+
+
+ img{
+    float: right;
+ }
