@@ -32,6 +32,7 @@ ul {
 .container {
     text-align: center; /* Centraliza a imagem */
     margin-top: 20px;
+    float: inline-end;
 }
 
 .container img {
