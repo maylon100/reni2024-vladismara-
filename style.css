@@ -1,13 +1,14 @@
 body{
     background-color: black;
     color: white;
+    border: 2px dotted black; /* Ajuste a espessura e a cor da borda conforme necessário */
+    padding: 10px; /* Adiciona um espaço interno ao redor do conteúdo */
+    margin: 20px; /* Adiciona um espaço externo ao redor do elemento */
+}
 }
 h1{
     text-align: center;
 }
 h2{
     text-align: 40px;
-}
-p{
-    
 }
