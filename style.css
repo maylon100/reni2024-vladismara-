@@ -44,7 +44,7 @@ ul {
 }
 
 .imagemdireita img {
-    width: 650px;
+    width: 800px;
     height: auto; /* Mantém a proporção da imagem */
     border-radius: 8px; /* Borda arredondada para a imagem */
 }
