@@ -35,13 +35,23 @@ ul {
     
 }
 
-/* .container img {
-    max-width: 100%; /* Garante que a imagem não ultrapasse a largura do contêiner */
-    height: auto;
-    border: 2px solid #ccc; /* Adiciona uma borda sutil ao redor da imagem */
-    border-radius: 8px; /* Arredonda os cantos da borda da imagem */
-} */
+.textoesquerda {
+    flex: 1; /* Ocupa o espaço restante */
+    padding-right: 20px; /* Espaçamento à direita para separar da imagem */
+    align-self: center;
+    padding-left: 2em;
+}
 
+.imagem {
+    flex: 1; /* Ocupa o espaço restante */
+    text-align: center; /* Centraliza a imagem horizontalmente */
+}
+
+.imagem img {
+    max-width: 100%; /* Garante que a imagem não ultrapasse seu contêiner */
+    height: auto; /* Mantém a proporção da imagem */
+    border-radius: 8px; /* Borda arredondada para a imagem */
+}
 
  img{
     float: right;
