@@ -35,6 +35,7 @@ ul {
     padding-right: 20px; /* Espaçamento à direita para separar da imagem */
     align-self: center;
     padding-left: 2em;
+    max-width: 400px;
 }
 
 .imagemdireita {
@@ -50,5 +51,5 @@ ul {
 .container{
     display: block;
     margin: auto;
-    
+
 }
