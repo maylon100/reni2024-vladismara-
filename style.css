@@ -32,7 +32,7 @@ ul {
 .container {
     text-align: center; /* Centraliza a imagem */
     margin-top: 20px;
-    float: inline-end;
+    
 }
 
 .container img {
@@ -40,4 +40,5 @@ ul {
     height: auto;
     border: 2px solid #ccc; /* Adiciona uma borda sutil ao redor da imagem */
     border-radius: 8px; /* Arredonda os cantos da borda da imagem */
+    float: inline-end;
 }
