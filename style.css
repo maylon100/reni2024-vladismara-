@@ -1,5 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap')
-.body {
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap');
+ 
+body{
     font-family: Arial, sans-serif;
     line-height: 1.6;
     border: 5px solid transparent;
