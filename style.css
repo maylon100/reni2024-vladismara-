@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap');
 body{
     background-color: black;
     color: white;
@@ -10,6 +11,11 @@ body{
 }
 h1{
     text-align: center;
+    .baskervville-sc-regular {
+        font-family: "Baskervville SC", serif;
+        font-weight: 400;
+        font-style: normal;
+
 }
 h2{
     text-align: 40px;
