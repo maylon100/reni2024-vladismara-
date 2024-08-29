@@ -20,3 +20,12 @@ h1{
 h2{
     text-align: 40px;
 }
+.container {
+    display: flex;
+    align-items: center; /* Alinha verticalmente o texto e a imagem */
+    gap: 10px; /* Espaço entre a imagem e o texto */
+}
+.container img {
+    width: 100px; /* Ajuste o tamanho da imagem conforme necessário */
+    height: auto;
+}
