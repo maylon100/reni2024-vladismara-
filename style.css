@@ -44,12 +44,12 @@ ul {
 }
 
 .imagemdireita img {
-    max-width: 100%; /* Garante que a imagem não ultrapasse seu contêiner */
+    max-width: 8em;
     height: auto; /* Mantém a proporção da imagem */
     border-radius: 8px; /* Borda arredondada para a imagem */
 }
 .container{
-    display: block;
+    display: flex;
     margin: auto;
 
 }
